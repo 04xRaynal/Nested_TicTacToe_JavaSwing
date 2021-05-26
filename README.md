@@ -1,10 +1,14 @@
 # A Nested TicTacToe game using Java Swing.
 ***
+
 ## The user is initially displayed with an option to choose your opponent, either against the computer or a friend.
+ 
+ Project Demo: [Nested Tic-Tac-Toe](https://replit.com/@MajinVegetaSSJ2/Nested-TicTacToe?v=1)
  
 ![Capture_NestedTicTacToe_MainMenu](https://github.com/04xRaynal/Nested_TicTacToe_JavaSwing/blob/85b913f85ab05f6e67fe220b1a5b483f3ecf27e1/Captured%20Images/Capture_NestedTicTacToe_MainMenu.PNG)
 
 ---
+
 Play alternates between the user(player1) who initially is X and the player2/CPU which is O.
 
 Image displaying a game between the user and CPU:
